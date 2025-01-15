@@ -1,11 +1,5 @@
 public class Login
 {
+	public static void main()
 
-sfjslfjsfs
-fs
-f
-sf
-s
-fs
-f
 }
